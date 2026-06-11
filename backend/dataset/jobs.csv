@@ -1,0 +1,53 @@
+job_title,company,growth_rate,average_salary,entry_salary,mid_salary,senior_salary,skills_required,industry
+Software Engineer,TechCorp Solutions,15,110000,75000,110000,160000,"python, javascript, react, git",Technology
+Senior Software Engineer,Innovate Labs,12,145000,115000,145000,195000,"javascript, react, node.js, system architecture",Technology
+Data Scientist,DataMetrics LLC,22,120000,85000,120000,175000,"python, sql, machine learning, statistics",Data & Analytics
+Machine Learning Engineer,NeuralNet Labs,25,135000,95000,135000,190000,"python, machine learning, pytorch, pandas",Technology
+UI/UX Designer,Creative Studio,10,90000,60000,90000,130000,"figma, wireframing, prototyping, user research",Design & Media
+Lead Designer,Apex Brands,8,120000,85000,120000,160000,"figma, design systems, interaction design, leadership",Design & Media
+DevOps Engineer,CloudScale Networks,18,125000,85000,125000,180000,"aws, docker, kubernetes, linux, cicd",Technology / Cloud
+Site Reliability Engineer,ScaleOps Inc,16,135000,90000,135000,190000,"kubernetes, linux, network protocols, automation",Technology
+Product Manager,Alpha Products,11,115000,75000,115000,165000,"agile, product roadmap, market research",Business & Product
+Cybersecurity Analyst,SecureNet Security,28,105000,70000,105000,150000,"networking, firewalls, threat detection, security audit",Cybersecurity
+Database Administrator,InfoVault Systems,5,95000,65000,95000,135000,"sql, mysql, postgresql, performance tuning",Database Services
+Digital Marketing Manager,GrowthFlow Media,9,85000,55000,85000,120000,"seo, sem, google analytics, content marketing",Marketing & Growth
+Senior Software Engineer,Innovate Corp,14,145732,113890,145732,188887,"javascript, react, node.js, system architecture",Technology
+Site Reliability Engineer,ScaleOps Global,17,139941,88557,139941,186971,"kubernetes, linux, network protocols, automation",Technology
+Machine Learning Engineer,NeuralNet Inc,28,137623,92549,137623,182635,"python, machine learning, pytorch, pandas",Technology
+Database Administrator,InfoVault Partners,6,90064,67163,90064,135573,"sql, mysql, postgresql, performance tuning",Database Services
+Software Engineer,TechCorp Inc,18,110916,74148,110916,161445,"python, javascript, react, git",Technology
+Database Administrator,InfoVault Partners,6,92125,63982,92125,142501,"sql, mysql, postgresql, performance tuning",Database Services
+Lead Designer,Apex Partners,11,117447,82786,117447,160070,"figma, design systems, interaction design, leadership",Design & Media
+Machine Learning Engineer,NeuralNet Global,26,138976,97329,138976,190287,"python, machine learning, pytorch, pandas",Technology
+UI/UX Designer,Creative Global,13,92266,58736,92266,134354,"figma, wireframing, prototyping, user research",Design & Media
+Database Administrator,InfoVault Partners,3,94511,65989,94511,138486,"sql, mysql, postgresql, performance tuning",Database Services
+UI/UX Designer,Creative Systems,13,91617,59542,91617,137923,"figma, wireframing, prototyping, user research",Design & Media
+UI/UX Designer,Creative Corp,7,93879,61470,93879,136949,"figma, wireframing, prototyping, user research",Design & Media
+Cybersecurity Analyst,SecureNet Partners,29,107226,72658,107226,145889,"networking, firewalls, threat detection, security audit",Cybersecurity
+Senior Software Engineer,Innovate Partners,9,149500,115860,149500,192893,"javascript, react, node.js, system architecture",Technology
+Site Reliability Engineer,ScaleOps Inc,16,134065,90287,134065,195879,"kubernetes, linux, network protocols, automation",Technology
+Senior Software Engineer,Innovate Inc,14,149862,112850,149862,195345,"javascript, react, node.js, system architecture",Technology
+Data Scientist,DataMetrics Partners,21,115943,82206,115943,178506,"python, sql, machine learning, statistics",Data & Analytics
+Data Scientist,DataMetrics Inc,23,121451,82682,121451,180433,"python, sql, machine learning, statistics",Data & Analytics
+Cybersecurity Analyst,SecureNet Systems,31,102465,72185,102465,148991,"networking, firewalls, threat detection, security audit",Cybersecurity
+Product Manager,Alpha Corp,9,113451,73119,113451,168447,"agile, product roadmap, market research",Business & Product
+Digital Marketing Manager,GrowthFlow Inc,11,85376,54467,85376,123216,"seo, sem, google analytics, content marketing",Marketing & Growth
+Machine Learning Engineer,NeuralNet Partners,24,139347,97053,139347,189720,"python, machine learning, pytorch, pandas",Technology
+Product Manager,Alpha Global,14,117967,75204,117967,161752,"agile, product roadmap, market research",Business & Product
+UI/UX Designer,Creative Systems,11,86622,62112,86622,129038,"figma, wireframing, prototyping, user research",Design & Media
+Database Administrator,InfoVault Corp,2,97651,67616,97651,127690,"sql, mysql, postgresql, performance tuning",Database Services
+UI/UX Designer,Creative Systems,13,92803,58209,92803,128997,"figma, wireframing, prototyping, user research",Design & Media
+Database Administrator,InfoVault Corp,3,99350,66053,99350,141647,"sql, mysql, postgresql, performance tuning",Database Services
+Senior Software Engineer,Innovate Inc,14,142253,112632,142253,190759,"javascript, react, node.js, system architecture",Technology
+Data Scientist,DataMetrics Inc,22,121721,83771,121721,180922,"python, sql, machine learning, statistics",Data & Analytics
+DevOps Engineer,CloudScale Inc,15,124955,83991,124955,174875,"aws, docker, kubernetes, linux, cicd",Technology / Cloud
+Data Scientist,DataMetrics Global,24,118246,83494,118246,182800,"python, sql, machine learning, statistics",Data & Analytics
+Data Scientist,DataMetrics Systems,22,116148,83395,116148,174206,"python, sql, machine learning, statistics",Data & Analytics
+Machine Learning Engineer,NeuralNet Global,23,135739,92773,135739,188508,"python, machine learning, pytorch, pandas",Technology
+Data Scientist,DataMetrics Partners,22,123716,85855,123716,173208,"python, sql, machine learning, statistics",Data & Analytics
+Data Scientist,DataMetrics Inc,23,117817,87918,117817,171005,"python, sql, machine learning, statistics",Data & Analytics
+UI/UX Designer,Creative Partners,13,92584,59730,92584,131582,"figma, wireframing, prototyping, user research",Design & Media
+UI/UX Designer,Creative Corp,11,93652,58015,93652,131747,"figma, wireframing, prototyping, user research",Design & Media
+Data Scientist,DataMetrics Systems,23,123520,87475,123520,178074,"python, sql, machine learning, statistics",Data & Analytics
+Product Manager,Alpha Systems,12,118324,75732,118324,170795,"agile, product roadmap, market research",Business & Product
+Machine Learning Engineer,NeuralNet Corp,26,133407,95972,133407,187623,"python, machine learning, pytorch, pandas",Technology
