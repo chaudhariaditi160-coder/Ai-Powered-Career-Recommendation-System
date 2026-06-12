@@ -6,8 +6,8 @@ To address this problem, I developed the **AI-Powered Career Recommendation Syst
 
 The goal of this project is to reduce career uncertainty and help students become more productive by following a clear and personalized career roadmap.
 
-##Screenshots 
-Dasboard
+## Screenshots 
+### Dasboard
 ![Uploading Screenshot (67).png…]()
 
 
