@@ -8,7 +8,6 @@ The goal of this project is to reduce career uncertainty and help students becom
 
 ## Screenshots 
 ### Dasboard
-![Uploading Screenshot (67).png…]()
-
+![Dashboard](Screenshots/Dashboard.png)
 
 
