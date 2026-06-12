@@ -14,10 +14,18 @@ The goal of this project is to reduce career uncertainty and help students becom
 ![Dashboard](Screenshots/Assessment.png)
 
 ### Career Result
-![Dashboard](Screenshots/Career Result.png)
+![Dashboard](Screenshots/CareerResult.png)
 
 ### Resume Analyzer
-![Dashboard](Screenshots/Career Result.png)
+![Dashboard](Screenshots/ResumeAnalyzer.png)
+
+### Skill Gap
+![Dashboard](Screenshots/SkillGap.png)
+
+### Roadmap
+![Dashboard](Screenshots/Roadmap.png)
+
+
 
 
 
