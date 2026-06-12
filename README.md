@@ -40,33 +40,32 @@ The goal of this project is to reduce career uncertainty and help students becom
 
 ## Tech Stack
 
--- Frontend
-React.js
-HTML5
-CSS3
-JavaScript
-REST API Integration
--- Backend
-Flask
-Flask-CORS
-Python
--- Database
-PostgreSQL
--- Artificial Intelligence & Machine Learning
-Sentence-BERT (SBERT)
-Multilingual MPNet Embeddings
-VADER Sentiment Analysis
-Reinforcement Learning (Q-Learning)
-Rule-Based Recommendation Engine
-Knowledge Representation
-NetworkX Knowledge Graph
--- External Integrations
+-- Frontend:- 
+React.js,
+HTML5,
+CSS3,
+JavaScript,
+REST API Integration,
+-- Backend:- 
+Flask,
+Flask-CORS,
+Python:-
+-- Database:-
+PostgreSQL,
+-- Artificial Intelligence & Machine Learning:-
+Sentence-BERT (SBERT),
+Multilingual MPNet Embeddings,
+VADER Sentiment Analysis,
+Reinforcement Learning (Q-Learning),
+Rule-Based Recommendation Engine,
+-- Knowledge Representation:-
+NetworkX Knowledge Graph,
+-- External Integrations:-
 Naukri API (Job Market Trends)
 
 
 ##  Installation
 
-```bash
 git clone https://github.com/your-username/ai-career-recommendation-system.git
 
 cd ai-career-recommendation-system
@@ -81,6 +80,9 @@ cd ../backend
 pip install -r requirements.txt
 python app.py
 
+## Demo Link
+## System Architecture
+## Future Scope
 
 
 
