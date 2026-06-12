@@ -66,6 +66,7 @@ Naukri API (Job Market Trends)
 
 ##  Installation
 
+```bash
 git clone https://github.com/your-username/ai-career-recommendation-system.git
 
 cd ai-career-recommendation-system
@@ -79,7 +80,7 @@ npm run dev
 cd ../backend
 pip install -r requirements.txt
 python app.py
-
+```
 ## Demo Link
 ## System Architecture
 ## Future Scope
