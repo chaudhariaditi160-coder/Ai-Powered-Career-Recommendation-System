@@ -17,7 +17,7 @@ The goal of this project is to reduce career uncertainty and help students becom
 ![Dashboard](Screenshots/Career Result.png)
 
 ### Resume Analyzer
-![Dashboard](Screenshots/Resume Analyzer.png)
+![Dashboard](Screenshots/Career Result.png)
 
 
 
