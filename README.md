@@ -82,7 +82,12 @@ pip install -r requirements.txt
 python app.py
 ```
 ## Demo Link
+
+
 ## System Architecture
+![Dashboard](Screenshots/architecturediagram.png)
+
+
 ## Future Scope
 
 AI Interview Preparation
