@@ -42,9 +42,9 @@ api.interceptors.response.use(
 
 export const authAPI = {
   register: (name, email, password) => api.post('/api/auth/register', { name, email, password }),
-  login: (email, password) => api.post('/auth/login', { email, password }),
-  getProfile: () => api.get('/auth/profile'),
-  updateGoal: (career_goal) => api.put('/auth/profile/update', { career_goal }),
+  login: (email, password) => api.post('/api/auth/login', { email, password }),
+  getProfile: () => api.get('/api/auth/profile'),
+  updateGoal: (career_goal) => api.put('/api/auth/profile/update', { career_goal }),
 };
 
 export const assessmentAPI = {
