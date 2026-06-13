@@ -82,7 +82,7 @@ pip install -r requirements.txt
 python app.py
 ```
 ## Demo Link
-Live Demo : https:// ai-powered-career-recommendation-system-ozdy53bzy.vercel.app
+Live Demo : https://ai-powered-career-recommendation-system-ozdy53bzy.vercel.app
 
 
 ## System Architecture
