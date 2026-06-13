@@ -85,6 +85,10 @@ python app.py
 ## System Architecture
 ## Future Scope
 
+AI Interview Preparation
+Voice-Based Career Assistant
+College & Scholarship Recommendations
+
 
 
 
