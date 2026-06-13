@@ -1,7 +1,7 @@
 import axios from 'axios';
 
 // Connect to local Flask server by default, or read deployment server url
-const API_URL = import.meta.env.VITE_API_URL || 'https://ai-powered-career-recommendation-system-3.onrender.com';
+const API_URL = import.meta.env.VITE_API_URL || 'http://127.0.0.1:5000';
 
 const api = axios.create({
   baseURL: API_URL,
