@@ -82,6 +82,7 @@ pip install -r requirements.txt
 python app.py
 ```
 ## Demo Link
+Live Demo : nttps:// ai-powered-career-recommendation-system-ozdy53bzy.vercel.app
 
 
 ## System Architecture
@@ -90,9 +91,9 @@ python app.py
 
 ## Future Scope
 
-AI Interview Preparation
-Voice-Based Career Assistant
-College & Scholarship Recommendations
+- AI Interview Preparation
+- Voice-Based Career Assistant
+- College & Scholarship Recommendations
 
 
 
