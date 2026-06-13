@@ -1,9 +1,10 @@
-flask
-flask-cors
+Flask
+Flask-Cors
 PyJWT
-werkzeug
+Werkzeug
 python-dotenv
 scikit-learn
 pandas
 numpy
 reportlab
+gunicorn
